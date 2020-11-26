@@ -1,7 +1,6 @@
 #Foozie discord bot import discord
 import discord
-import server
-from Config import *
+from config import *
 from discord.ext import commands
 import re
 from discord import Permissions
